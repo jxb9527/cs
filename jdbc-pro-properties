@@ -1,4 +1,4 @@
 url=jdbc:oracle:thin:@21.3.4.5:1521:orcl
 driverClass=oracle.jdbc.OracleDriver
-userName=scott
-passWord=tiger
+userName=food
+passWord=123456
